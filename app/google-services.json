@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "573448807302",
+    "firebase_url": "https://vehiclestrackingsystem.firebaseio.com",
+    "project_id": "vehiclestrackingsystem",
+    "storage_bucket": "vehiclestrackingsystem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573448807302:android:3a5e2342604614e1744207",
+        "android_client_info": {
+          "package_name": "com.example.basimraza.vehiclestrackingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573448807302-i8sj92lt93ieni5ok4oghqko9mgfalo1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basimraza.vehiclestrackingsystem",
+            "certificate_hash": "9ad42b26d57aa2710a06c7571f16b6f51c57f590"
+          }
+        },
+        {
+          "client_id": "573448807302-4pc0kofmmac71jnrnqho473vrtp16fsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAixUncEm4vvZ21oHqV3wj6_RYPIf6NAXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573448807302-4pc0kofmmac71jnrnqho473vrtp16fsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
